@@ -17,12 +17,12 @@ namespace AmigoExampleApp {
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::AmigosSDK.Abstractions.FormsWebView internetContent;
+        private global::AmigosSDK.Abstractions.RAWebView RideAmigosContent;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
-            internetContent = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AmigosSDK.Abstractions.FormsWebView>(this, "internetContent");
+            RideAmigosContent = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::AmigosSDK.Abstractions.RAWebView>(this, "RideAmigosContent");
         }
     }
 }

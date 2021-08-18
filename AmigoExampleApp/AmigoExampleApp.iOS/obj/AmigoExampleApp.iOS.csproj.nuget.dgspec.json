@@ -111,7 +111,7 @@
           "dependencies": {
             "AmigosSDK": {
               "target": "Package",
-              "version": "[0.0.4, )"
+              "version": "[0.0.7, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

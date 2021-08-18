@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v11.0": {
-      "AmigosSDK/0.0.4": {
+      "AmigosSDK/0.0.9": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
@@ -999,7 +999,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "AmigosSDK": "0.0.4",
+          "AmigosSDK": "0.0.7",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
@@ -1013,13 +1013,13 @@
     }
   },
   "libraries": {
-    "AmigosSDK/0.0.4": {
-      "sha512": "0CYk9WI0urq8AROeKuHMG6TiivfXT2aRZ4g8wLq+fsd9MUgJvkIBY2KHAgRUTb7xaPSem6hr6IDXy841yhP32g==",
+    "AmigosSDK/0.0.9": {
+      "sha512": "KVqSqRdMmpAgXPMNRboxjgi0y9CcDixpWWqRsFU+WkVQUPs6bDpUvtvyHsyfXgH9ram7GkueMxXTm/23piyhbg==",
       "type": "package",
-      "path": "amigossdk/0.0.4",
+      "path": "amigossdk/0.0.9",
       "files": [
         ".nupkg.metadata",
-        "amigossdk.0.0.4.nupkg.sha512",
+        "amigossdk.0.0.9.nupkg.sha512",
         "amigossdk.nuspec",
         "lib/MonoAndroid10/AmigosSDK.Abstractions.deps.json",
         "lib/MonoAndroid10/AmigosSDK.Abstractions.dll",
@@ -2207,7 +2207,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
       "AmigoExampleApp >= 1.0.0",
-      "AmigosSDK >= 0.0.4",
+      "AmigosSDK >= 0.0.9",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
     ]
@@ -2258,7 +2258,7 @@
         "dependencies": {
           "AmigosSDK": {
             "target": "Package",
-            "version": "[0.0.4, )"
+            "version": "[0.0.9, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "AmigoExampleApp/1.0.0": {
         "dependencies": {
-          "AmigosSDK": "0.0.4",
+          "AmigosSDK": "0.0.7",
           "NETStandard.Library": "2.0.3",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
@@ -18,7 +18,7 @@
           "AmigoExampleApp.dll": {}
         }
       },
-      "AmigosSDK/0.0.4": {
+      "AmigosSDK/0.0.7": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "Xamarin.Forms": "5.0.0.2012"
@@ -87,12 +87,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AmigosSDK/0.0.4": {
+    "AmigosSDK/0.0.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0CYk9WI0urq8AROeKuHMG6TiivfXT2aRZ4g8wLq+fsd9MUgJvkIBY2KHAgRUTb7xaPSem6hr6IDXy841yhP32g==",
-      "path": "amigossdk/0.0.4",
-      "hashPath": "amigossdk.0.0.4.nupkg.sha512"
+      "sha512": "sha512-7L6maVKqe0QtlWoz7dZZiKy6L/ac3+wV9YleOMomMaHMAFUwUriphy4zCP7f6rSkGExvqEsshOxBpS2VGYawDQ==",
+      "path": "amigossdk/0.0.7",
+      "hashPath": "amigossdk.0.0.7.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
