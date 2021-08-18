@@ -1,0 +1,15 @@
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\bin\Debug\netstandard2.0\AmigoExampleApp.deps.json
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\bin\Debug\netstandard2.0\AmigoExampleApp.dll
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\bin\Debug\netstandard2.0\ref\AmigoExampleApp.dll
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\bin\Debug\netstandard2.0\AmigoExampleApp.pdb
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\AmigoExampleApp.csproj.AssemblyReference.cache
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\AmigoExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\AmigoExampleApp.AssemblyInfoInputs.cache
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\AmigoExampleApp.AssemblyInfo.cs
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\AmigoExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\AmigoExampleApp.dll
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\ref\AmigoExampleApp.dll
+C:\Users\benda\source\repos\AmigoExampleApp\AmigoExampleApp\AmigoExampleApp\obj\Debug\netstandard2.0\AmigoExampleApp.pdb

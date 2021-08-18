@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLsetgbLPh0pFkmZVPNHXUFGiQvYR9wPMDXx1esDg8LRvVRombv8i+NLuM6otHx8BSXarfEkjs1KB50HxdF3mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benda\\source\\repos\\AmigoExampleApp\\AmigoExampleApp\\AmigoExampleApp\\AmigoExampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benda\\.nuget\\packages\\amigossdk\\0.0.4\\amigossdk.0.0.4.nupkg.sha512",
+    "C:\\Users\\benda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\benda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\benda\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\benda\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
