@@ -125,11 +125,14 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+    <PackageReference Include="AmigosSDK">
+      <Version>0.0.11</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\AmigoExampleApp\AmigoExampleApp.csproj">
-      <Project>{E4CE4EF8-652B-4D4F-9C8D-C491DFCD1339}</Project>
+      <Project>{7A8A0981-FB33-4949-A770-D81CC7CAFC18}</Project>
       <Name>AmigoExampleApp</Name>
     </ProjectReference>
   </ItemGroup>
