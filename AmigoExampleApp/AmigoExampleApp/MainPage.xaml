@@ -5,7 +5,7 @@
              x:Class="AmigoExampleApp.MainPage">
 
     <StackLayout>
-        <amigos:RAWebView x:Name="RideAmigosContent" JWTString="somejwtstring" />
+        <amigos:RAWebView x:Name="RideAmigosContent"/>
     </StackLayout>
 
 </ContentPage>
