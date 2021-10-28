@@ -420,7 +420,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Attribute.ratingBarStyle = global::AmigoExampleApp.Droid.Resource.Attribute.ratingBarStyle;
 			global::AmigosSDK.Droid.Resource.Attribute.ratingBarStyleIndicator = global::AmigoExampleApp.Droid.Resource.Attribute.ratingBarStyleIndicator;
 			global::AmigosSDK.Droid.Resource.Attribute.ratingBarStyleSmall = global::AmigoExampleApp.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::AmigosSDK.Droid.Resource.Attribute.recyclerViewStyle = global::AmigoExampleApp.Droid.Resource.Attribute.recyclerViewStyle;
 			global::AmigosSDK.Droid.Resource.Attribute.reverseLayout = global::AmigoExampleApp.Droid.Resource.Attribute.reverseLayout;
 			global::AmigosSDK.Droid.Resource.Attribute.rippleColor = global::AmigoExampleApp.Droid.Resource.Attribute.rippleColor;
 			global::AmigosSDK.Droid.Resource.Attribute.scrimAnimationDuration = global::AmigoExampleApp.Droid.Resource.Attribute.scrimAnimationDuration;
@@ -1159,7 +1158,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Id.fragment_container_view_tag = global::AmigoExampleApp.Droid.Resource.Id.fragment_container_view_tag;
 			global::AmigosSDK.Droid.Resource.Id.FUNCTION = global::AmigoExampleApp.Droid.Resource.Id.FUNCTION;
 			global::AmigosSDK.Droid.Resource.Id.ghost_view = global::AmigoExampleApp.Droid.Resource.Id.ghost_view;
-			global::AmigosSDK.Droid.Resource.Id.ghost_view_holder = global::AmigoExampleApp.Droid.Resource.Id.ghost_view_holder;
 			global::AmigosSDK.Droid.Resource.Id.group_divider = global::AmigoExampleApp.Droid.Resource.Id.group_divider;
 			global::AmigosSDK.Droid.Resource.Id.home = global::AmigoExampleApp.Droid.Resource.Id.home;
 			global::AmigosSDK.Droid.Resource.Id.homeAsUp = global::AmigoExampleApp.Droid.Resource.Id.homeAsUp;
@@ -1211,7 +1209,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Id.right_icon = global::AmigoExampleApp.Droid.Resource.Id.right_icon;
 			global::AmigosSDK.Droid.Resource.Id.right_side = global::AmigoExampleApp.Droid.Resource.Id.right_side;
 			global::AmigosSDK.Droid.Resource.Id.save_non_transition_alpha = global::AmigoExampleApp.Droid.Resource.Id.save_non_transition_alpha;
-			global::AmigosSDK.Droid.Resource.Id.save_overlay_view = global::AmigoExampleApp.Droid.Resource.Id.save_overlay_view;
 			global::AmigosSDK.Droid.Resource.Id.screen = global::AmigoExampleApp.Droid.Resource.Id.screen;
 			global::AmigosSDK.Droid.Resource.Id.scroll = global::AmigoExampleApp.Droid.Resource.Id.scroll;
 			global::AmigosSDK.Droid.Resource.Id.scrollable = global::AmigoExampleApp.Droid.Resource.Id.scrollable;
@@ -1237,7 +1234,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Id.showCustom = global::AmigoExampleApp.Droid.Resource.Id.showCustom;
 			global::AmigosSDK.Droid.Resource.Id.showHome = global::AmigoExampleApp.Droid.Resource.Id.showHome;
 			global::AmigosSDK.Droid.Resource.Id.showTitle = global::AmigoExampleApp.Droid.Resource.Id.showTitle;
-			global::AmigosSDK.Droid.Resource.Id.sliding_tabs = global::AmigoExampleApp.Droid.Resource.Id.sliding_tabs;
 			global::AmigosSDK.Droid.Resource.Id.smallLabel = global::AmigoExampleApp.Droid.Resource.Id.smallLabel;
 			global::AmigosSDK.Droid.Resource.Id.snackbar_action = global::AmigoExampleApp.Droid.Resource.Id.snackbar_action;
 			global::AmigosSDK.Droid.Resource.Id.snackbar_text = global::AmigoExampleApp.Droid.Resource.Id.snackbar_text;
@@ -1275,7 +1271,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Id.title = global::AmigoExampleApp.Droid.Resource.Id.title;
 			global::AmigosSDK.Droid.Resource.Id.titleDividerNoCustom = global::AmigoExampleApp.Droid.Resource.Id.titleDividerNoCustom;
 			global::AmigosSDK.Droid.Resource.Id.title_template = global::AmigoExampleApp.Droid.Resource.Id.title_template;
-			global::AmigosSDK.Droid.Resource.Id.toolbar = global::AmigoExampleApp.Droid.Resource.Id.toolbar;
 			global::AmigosSDK.Droid.Resource.Id.top = global::AmigoExampleApp.Droid.Resource.Id.top;
 			global::AmigosSDK.Droid.Resource.Id.topPanel = global::AmigoExampleApp.Droid.Resource.Id.topPanel;
 			global::AmigosSDK.Droid.Resource.Id.touch_outside = global::AmigoExampleApp.Droid.Resource.Id.touch_outside;
@@ -1366,8 +1361,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Layout.design_navigation_item_subheader = global::AmigoExampleApp.Droid.Resource.Layout.design_navigation_item_subheader;
 			global::AmigosSDK.Droid.Resource.Layout.design_navigation_menu = global::AmigoExampleApp.Droid.Resource.Layout.design_navigation_menu;
 			global::AmigosSDK.Droid.Resource.Layout.design_navigation_menu_item = global::AmigoExampleApp.Droid.Resource.Layout.design_navigation_menu_item;
-			global::AmigosSDK.Droid.Resource.Layout.FallbackTabbarDoNotUse = global::AmigoExampleApp.Droid.Resource.Layout.FallbackTabbarDoNotUse;
-			global::AmigosSDK.Droid.Resource.Layout.FallbackToolbarDoNotUse = global::AmigoExampleApp.Droid.Resource.Layout.FallbackToolbarDoNotUse;
 			global::AmigosSDK.Droid.Resource.Layout.FlyoutContent = global::AmigoExampleApp.Droid.Resource.Layout.FlyoutContent;
 			global::AmigosSDK.Droid.Resource.Layout.mtrl_layout_snackbar = global::AmigoExampleApp.Droid.Resource.Layout.mtrl_layout_snackbar;
 			global::AmigosSDK.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::AmigoExampleApp.Droid.Resource.Layout.mtrl_layout_snackbar_include;
@@ -1392,8 +1385,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Layout.select_dialog_singlechoice_material = global::AmigoExampleApp.Droid.Resource.Layout.select_dialog_singlechoice_material;
 			global::AmigosSDK.Droid.Resource.Layout.ShellContent = global::AmigoExampleApp.Droid.Resource.Layout.ShellContent;
 			global::AmigosSDK.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::AmigoExampleApp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::AmigosSDK.Droid.Resource.Layout.Tabbar = global::AmigoExampleApp.Droid.Resource.Layout.Tabbar;
-			global::AmigosSDK.Droid.Resource.Layout.Toolbar = global::AmigoExampleApp.Droid.Resource.Layout.Toolbar;
 			global::AmigosSDK.Droid.Resource.String.abc_action_bar_home_description = global::AmigoExampleApp.Droid.Resource.String.abc_action_bar_home_description;
 			global::AmigosSDK.Droid.Resource.String.abc_action_bar_up_description = global::AmigoExampleApp.Droid.Resource.String.abc_action_bar_up_description;
 			global::AmigosSDK.Droid.Resource.String.abc_action_menu_overflow_description = global::AmigoExampleApp.Droid.Resource.String.abc_action_menu_overflow_description;
@@ -2490,7 +2481,6 @@ namespace AmigoExampleApp.Droid
 			global::AmigosSDK.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::AmigoExampleApp.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
 			global::AmigosSDK.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::AmigoExampleApp.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
 			global::AmigosSDK.Droid.Resource.Styleable.RecyclerView = global::AmigoExampleApp.Droid.Resource.Styleable.RecyclerView;
-			global::AmigosSDK.Droid.Resource.Styleable.RecyclerView_android_clipToPadding = global::AmigoExampleApp.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
 			global::AmigosSDK.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::AmigoExampleApp.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
 			global::AmigosSDK.Droid.Resource.Styleable.RecyclerView_android_orientation = global::AmigoExampleApp.Droid.Resource.Styleable.RecyclerView_android_orientation;
 			global::AmigosSDK.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::AmigoExampleApp.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
@@ -22152,22 +22142,25 @@ namespace AmigoExampleApp.Droid
 			public const int image_share_filepaths = 2131820544;
 			
 			// aapt resource value: 0x7F110001
-			public const int standalone_badge = 2131820545;
+			public const int network_security_config = 2131820545;
 			
 			// aapt resource value: 0x7F110002
-			public const int standalone_badge_gravity_bottom_end = 2131820546;
+			public const int standalone_badge = 2131820546;
 			
 			// aapt resource value: 0x7F110003
-			public const int standalone_badge_gravity_bottom_start = 2131820547;
+			public const int standalone_badge_gravity_bottom_end = 2131820547;
 			
 			// aapt resource value: 0x7F110004
-			public const int standalone_badge_gravity_top_start = 2131820548;
+			public const int standalone_badge_gravity_bottom_start = 2131820548;
 			
 			// aapt resource value: 0x7F110005
-			public const int standalone_badge_offset = 2131820549;
+			public const int standalone_badge_gravity_top_start = 2131820549;
 			
 			// aapt resource value: 0x7F110006
-			public const int xamarin_essentials_fileprovider_file_paths = 2131820550;
+			public const int standalone_badge_offset = 2131820550;
+			
+			// aapt resource value: 0x7F110007
+			public const int xamarin_essentials_fileprovider_file_paths = 2131820551;
 			
 			static Xml()
 			{
