@@ -3,9 +3,28 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:amigos="clr-namespace:AmigosSDK.Abstractions;assembly=AmigosSDK.Abstractions"
              x:Class="AmigoExampleApp.MainPage">
-
-    <StackLayout>
-        <amigos:RAWebView x:Name="RideAmigosContent"/>
+    <AbsoluteLayout>
+    <StackLayout
+        x:Name="mainLayout"
+        AbsoluteLayout.LayoutBounds="0,0,1,1"
+                 AbsoluteLayout.LayoutFlags="All" >
+         <amigos:RAWebView x:Name="RideAmigosContent"/>
+    </StackLayout>
+    <StackLayout
+        x:Name="aiLayout"
+        IsVisible="{Binding
+                    Source={x:Reference RideAmigosContent},
+                    Path=Navigating}"
+        AbsoluteLayout.LayoutBounds="0,0,1,1"
+        AbsoluteLayout.LayoutFlags="All"
+        BackgroundColor="White" Opacity="0.5">
+        <ActivityIndicator
+            x:Name="ai"
+            IsRunning="True"
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="CenterAndExpand"
+            Color="Blue"/>
     </StackLayout>
 
+</AbsoluteLayout>
 </ContentPage>
